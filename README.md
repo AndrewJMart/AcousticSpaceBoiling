@@ -163,17 +163,6 @@ A demo web application allows interactive exploration of results:
 
 ---
 
-## Authors
-
-| Name               | Role                                              | Email                     |
-|--------------------|---------------------------------------------------|---------------------------|
-| **Zachary Weinfeld** | Acoustic feature engineering, supervised learning | zweinfeld@calpoly.edu     |
-| **James Lamkin**     | Data pipeline, rhythmic detection algorithm      | lamkin@calpoly.edu        |
-| **Krish Gupta**      | Web application, system integration              | kgupta15@calpoly.edu      |
-| **Andrew Martinez**  | Statistical analysis, clustering                 | amart531@calpoly.edu      |
-
----
-
 ## How to Cite
 
 If you use this work in your research, please cite our project as follows:

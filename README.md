@@ -6,6 +6,13 @@ This repository contains code, data, and documentation for a project aimed at de
 
 ---
 
+## 📄 Research Paper
+
+You can read the full project paper here:  
+🔗 [**Acoustic Data-based Characterization of Incipient Boiling for Space Applications**](https://andrewjmart.github.io/AcousticSpaceBoiling/)
+
+This PDF outlines our full methodology, feature engineering, machine learning pipeline, and web visualization tool, developed in collaboration with NASA Ames.
+
 ## Getting Started: Download and Usage
 
 To download and use the Acoustic-Space-Boiling app:
